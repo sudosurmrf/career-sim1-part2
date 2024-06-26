@@ -20,7 +20,8 @@ nav a {
 
 #headshot {
   display: flex;
-  justify-content: left;
+  float: left;
+
 }
 
 #headshot img {
@@ -31,4 +32,28 @@ nav a {
 
 body {
   background-image: url(./2140912.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+#bio {
+  float: center;
+  color: white;
+  background: rgba(10, 189, 165, 0.45);
+  
+}
+
+#bio > *{
+  text-align: justify;
+}
+
+#bio h1 {
+  font-size: 300%;
+}
+
+#bio p {
+  font-size: 200%;
+}
+#bio p + p2 {
+  font-size: 200%;
 }
