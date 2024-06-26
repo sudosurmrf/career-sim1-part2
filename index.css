@@ -79,3 +79,20 @@ h1:hover {
   }
   
 }
+
+main {
+  color: white;
+  text-align: center;
+}
+
+section {
+  background-color: rgba(10, 189, 165, 0.45);
+}
+
+#prog-pic {
+  float: left;
+}
+
+#game-pic {
+  float: right;
+}
