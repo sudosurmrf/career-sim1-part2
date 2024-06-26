@@ -40,7 +40,7 @@ body {
   float: center;
   color: white;
   background: rgba(10, 189, 165, 0.45);
-  
+
 }
 
 #bio > *{
@@ -56,4 +56,12 @@ body {
 }
 #bio p + p2 {
   font-size: 200%;
+}
+
+form {
+  text-align: center;
+  color: white;
+  font-size: 200%;
+  background-color: black;
+  margin: 0 800;
 }
