@@ -1,0 +1,67 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: blue;
+  opacity: 80%;
+}
+
+nav > * {
+  color: white;
+  padding: 4%; 
+}
+
+nav > *:hover {
+  font-size: 300%;
+}
+
+nav a {
+  font-size: 30px;
+}
+
+#headshot {
+  display: flex;
+  float: left;
+
+}
+
+#headshot img {
+  height: auto;
+  max-width: 50%;
+  border-radius: 50%;
+}
+
+body {
+  background-image: url(./2140912.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+#bio {
+  float: center;
+  color: white;
+  background: rgba(10, 189, 165, 0.45);
+
+}
+
+#bio > *{
+  text-align: justify;
+}
+
+#bio h1 {
+  font-size: 300%;
+}
+
+#bio p {
+  font-size: 200%;
+}
+#bio p + p2 {
+  font-size: 200%;
+}
+
+form {
+  text-align: center;
+  color: white;
+  font-size: 200%;
+  background-color: black;
+  margin: 0 800;
+}
