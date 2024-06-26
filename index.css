@@ -18,3 +18,17 @@ nav a {
   font-size: 30px;
 }
 
+#headshot {
+  display: flex;
+  justify-content: left;
+}
+
+#headshot img {
+  height: auto;
+  max-width: 50%;
+  border-radius: 50%;
+}
+
+body {
+  background-image: url(./2140912.jpg);
+}
