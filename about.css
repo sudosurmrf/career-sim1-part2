@@ -4,3 +4,15 @@
     text-wrap: wrap;
   }
 }
+
+h1 {
+  font-size: 200%;
+}
+
+h3 {
+  font-size: 200%;
+}
+
+p {
+  font-size: 150%;
+}
