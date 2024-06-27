@@ -64,7 +64,8 @@ form {
   color: white;
   font-size: 200%;
   background-color: black;
-  margin: 0 800;
+  margin: 0 40%;
+  border-radius: 20%;
 }
 
 h1:hover {
