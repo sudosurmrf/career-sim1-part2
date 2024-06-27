@@ -69,6 +69,9 @@ form {
 
 h1:hover {
   background-image: url(./65_pikka.bmp);
+  background-size:contain;
+  color:green;
+  mix-blend-mode: difference;
 }
 
 @media screen and (max-width: 600px) {
